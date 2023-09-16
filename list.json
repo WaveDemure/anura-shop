@@ -20,6 +20,13 @@
             "desc": "A plugin to run SWF Files",
             "data": "apps/flash.app.zip",
             "category": "plugin"
+        },
+        {
+            "name": "Worlds hardest game 2",
+            "icon": "icons/run.png",
+            "desc": "Testing",
+            "data": "apps/hard2.app.zip",
+            "category": "game"
         }
     ]
 }
